@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Markus Flo
-- 👀 I really love styrofoam
+- 👋 Hi, I’m Markus
+- 👀 I like styrofoam
 - 🌏 Currently learning programming to fund my extreme desire to go to Chongqing
 
 <!---
